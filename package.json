@@ -1,0 +1,28 @@
+{
+  "name": "technicaltest_te_flip",
+  "version": "1.0.0",
+  "description": "Technical Test at Flip",
+  "main": "index.js",
+  "scripts": {
+  "cypress:open": "cypress open"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andikanote/TechnicalTest_TE_Flip.git"
+  },
+  "keywords": [
+    "Flip"
+  ],
+  "author": "Andika Prananto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andikanote/TechnicalTest_TE_Flip/issues"
+  },
+  "homepage": "https://github.com/andikanote/TechnicalTest_TE_Flip#readme",
+  "devDependencies": {
+    "cypress": "^13.7.1"
+  },
+  "dependencies": {
+    "cypress-plugin-api": "^2.11.1"
+  }
+}
