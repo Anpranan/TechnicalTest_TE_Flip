@@ -7,12 +7,6 @@ To install **Cypress** via npm, follow these steps:
 Linux, MacOS, Windows:
 
 ```bash
-> npm install cypress
-```
-
-OR
-
-```bash
 > npm install cypress --save-dev
 ```
 
@@ -88,3 +82,7 @@ export default defineConfig({
   },
 })
 ```
+<hr>
+<p align="center">
+...Technical Test - Test Engineer - Flip ❤️  <a href="https://anpranaan.vercel.app/">Andika Prananto
+</p>
